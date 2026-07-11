@@ -1,1 +1,6 @@
-
+gitclone wit url: keep copy repo into locak repo .
+git add: code push to staginng area.
+git status: cheack correct status '
+git commmit: save the code form staging area to the remot repo
+ git push: all file will be push to remote repositry 
+git pull 
